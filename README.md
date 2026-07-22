@@ -1,10 +1,16 @@
 # 贝叶斯公式交互演示
 
+<p align="center">
+<a href="https://github.com/foldright/bayes-theorem-demo?tab=MIT-1-ov-file"><img src="https://img.shields.io/github/license/foldright/bayes-theorem-demo?color=4D7A97&logo=apache" alt="License"></a>
+<a href="https://github.com/foldright/bayes-theorem-demo"><img src="https://img.shields.io/github/repo-size/foldright/bayes-theorem-demo" alt="GitHub repo size"></a>
+</p>
+
 一个**零依赖的单文件 HTML 页面**，用「面积 = 概率」的可拖拽面积图 + 1000 人点阵，把贝叶斯公式从抽象符号变成可以上手摆弄的具体对象。适合课堂教学、自学理解，或嵌入任何课程页面。
 
-![页面截图](docs/screenshot.png)
-
 打开后默认进入「🏥 医学检测」场景——这是理解贝叶斯最经典、最反直觉的例子。
+
+<a href="https://foldright.io/bayes-theorem-demo/bayes-theorem-demo.html" target="_blank">
+<img src="docs/screenshot.png" width="40%" alt="页面截图" /></a>
 
 ## 页面导览
 
