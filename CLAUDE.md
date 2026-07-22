@@ -100,8 +100,10 @@
 
 ```
 bayesian/
-├── bayes-demo.html   # 单文件演示页面（HTML + CSS + JS）
-├── CLAUDE.md         # 本文档
+├── bayes-demo.html      # 单文件演示页面（HTML + CSS + JS）
+├── docs/screenshot.png  # README 用截图
+├── README.md            # 面向读者的使用与教学说明
+├── CLAUDE.md            # 本文档
 ```
 
 ## 如何运行与继续开发
