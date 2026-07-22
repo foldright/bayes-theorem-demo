@@ -1,4 +1,4 @@
-# 贝叶斯公式交互演示
+# 🎲 贝叶斯公式交互演示
 
 <p align="center">
 <a href="https://github.com/foldright/bayes-theorem-demo?tab=MIT-1-ov-file"><img src="https://img.shields.io/github/license/foldright/bayes-theorem-demo?color=4D7A97&logo=apache" alt="License"></a>
@@ -9,7 +9,7 @@
 
 打开后默认进入「🏥 医学检测」场景——这是理解贝叶斯最经典、最反直觉的例子。
 
-<a href="https://foldright.io/bayes-theorem-demo/bayes-theorem-demo.html" target="_blank">
+<a href="https://foldright.io/bayes-theorem-demo" target="_blank">
 <img src="docs/screenshot.png" width="40%" alt="页面截图" /></a>
 
 ## 页面导览

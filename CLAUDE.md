@@ -100,30 +100,12 @@
 
 ```
 bayesian/
-├── bayes-demo.html      # 单文件演示页面（HTML + CSS + JS）
+├── index.html           # 单文件演示页面（HTML + CSS + JS）
 ├── docs/screenshot.png  # README 用截图
 ├── README.md            # 面向读者的使用与教学说明
-├── CLAUDE.md            # 本文档
 ```
 
-## 如何运行与继续开发
-
-### 本地查看
-
-直接用浏览器打开 `bayes-demo.html`：
-
-```bash
-open bayes-demo.html
-```
-
-或启动一个本地静态服务器：
-
-```bash
-python3 -m http.server 8000
-# 然后访问 http://localhost:8000/bayes-demo.html
-```
-
-### 继续开发建议
+## 继续开发建议
 
 - **添加更多教学提示**：在特定参数组合时弹出引导气泡，例如"试试把 P(D|¬H) 拖到接近 0"。
 - **更多场景预设**：法庭证据、新冠抗原自测、机器学习分类器等；场景可自带自然频数文案模板。
